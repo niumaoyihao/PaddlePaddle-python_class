@@ -1,6 +1,6 @@
 # PaddlePaddle-python_class
 + This is the article  about python lesson note for Baidu flying paddle platform
 + Interested comrades can click the link below to view：https://aistudio.baidu.com/aistudio/course/introduce/7073
-+ The homework for each class is placed under the **branch homework**.
++ ~~The homework for each class is placed under the **branch homework**.~~
 
 
